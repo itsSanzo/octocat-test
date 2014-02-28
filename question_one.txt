@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+"git clones" lets you copy a repository that already exist on Github to your own computer. The new directory on the computer will contain all the files contained in the Github repo and will be already inizialised for git.
