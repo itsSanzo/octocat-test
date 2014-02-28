@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A project can have more branches (usually a master branch and a number of parallel branches). Branches let you work on different aspects of the same files indipendently, but eventually need to be merged.
